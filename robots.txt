@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://404ghost99.github.io/sitemap.xml 
